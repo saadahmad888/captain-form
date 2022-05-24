@@ -580,6 +580,16 @@ input{
   font-size: 15px;
   color: var(--light-dark);
 }
+.custom-select{
+  font-size: 13px!important;
+  font-weight: 300!important;
+  color: var(--light-dark)!important;
+}
+.form-control{
+  color: var(--light-dark);
+  font-size: 13px!important;
+  font-weight: 300!important;
+}
 
 
 
