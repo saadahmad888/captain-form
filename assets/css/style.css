@@ -152,7 +152,9 @@ input[type="checkbox"]:checked::before{
   margin-bottom: 25px;
 }
 .agrement-note-div p{
+  line-height: 19px;
   font-size: 13px;
+  font-weight: 300;
   color: #8e8e8e;
 }
 .form-checkbox-style{
